@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameobjects>
+
+<wall><name>wall1</name><width>16</width><height>48</height><x>1172</x><y>79</y></wall>
+<wall><name>wall2</name><width>16</width><height>48</height><x>1288</x><y>79</y></wall>
+<wall><name>wall3</name><width>16</width><height>48</height><x>1797</x><y>79</y></wall>
+<wall><name>wall4</name><width>32</width><height>160</height><x>2389</x><y>135</y></wall>
+
+</gameobjects>

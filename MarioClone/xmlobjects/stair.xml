@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameobjects>
+
+<stair><name>stair1</name><texture>stairs1</texture><x>550</x><y>95</y><width>96</width><height>80</height></stair>
+<stair><name>stair2</name><texture>stairs2</texture><x>807</x><y>95</y><width>96</width><height>80</height></stair>
+<stair><name>stair3</name><texture>stairs2</texture><x>2767</x><y>95</y><width>96</width><height>80</height></stair>
+<stair><name>stair4</name><texture>stairs1</texture><x>2926</x><y>95</y><width>96</width><height>80</height></stair>
+<stair><name>stair5</name><texture>stairs1</texture><x>3220</x><y>95</y><width>96</width><height>80</height></stair>
+<stair><name>stair6</name><texture>stairs2</texture><x>3457</x><y>95</y><width>96</width><height>80</height></stair>
+
+</gameobjects>

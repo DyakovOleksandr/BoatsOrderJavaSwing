@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameobjects>
+
+<ground><name>ground1</name><width>1525</width><height>55</height><x>762.5</x><y>27.5</y></ground>
+<ground><name>ground2</name><width>274</width><height>55</height><x>1781</x><y>27.5</y></ground>
+<ground><name>ground3</name><width>562</width><height>55</height><x>2303</x><y>27.5</y></ground>
+<ground><name>ground4</name><width>347</width><height>55</height><x>2846.5</x><y>27.5</y></ground>
+<ground><name>ground5</name><width>900</width><height>55</height><x>3550</x><y>27.5</y></ground>
+
+</gameobjects>

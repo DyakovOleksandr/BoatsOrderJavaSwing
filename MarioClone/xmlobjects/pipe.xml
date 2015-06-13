@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameobjects>
+
+<pipe><name>pipe1</name><width>32</width><height>78</height><x>1409</x><y>94</y></pipe>
+<pipe><name>pipe2</name><width>32</width><height>78</height><x>2570</x><y>94</y></pipe>
+
+</gameobjects>
